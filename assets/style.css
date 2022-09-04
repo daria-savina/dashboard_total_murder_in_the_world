@@ -1,0 +1,36 @@
+body {
+  margin: 25px;
+  background-color: #4E5D6C;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 55px;
+  font-weight: normal;
+  margin-top: 17px;
+  color: #f5e6ba;
+}
+h6 {
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 17px;
+  color: #f4eacf;
+}
+Div {
+    text-align: left;
+    font-size: 15px;
+    text-align:left;
+    color:#b4a7d6;
+    background-color: #4E5D6C;}
+
+.three.columns  { width: 22%;border: solid 2px;}
+.four.columns   { width: 30.6666666667%;border: solid 2px;}
+.twelve.columns { width: 100%; margin-left: 0;border: solid 2px;}
+
+.number-stat-box {
+    font-size: 15px;
+    padding: 2rem;
+    border-radius: 7px;
+    background-color: #4E5D6C
+}
